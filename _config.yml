@@ -1,0 +1,19 @@
+title: DBS Study Guide
+description: CS F212 Database Systems — Comprehensive Exam Preparation
+baseurl: "/DBS"
+url: "https://raghavujjwal.github.io"
+theme: minima
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+nav_links:
+  - title: Home
+    url: /
+  - title: Topic Analysis
+    url: /topics/
+  - title: PYQ Breakdown
+    url: /pyq/
+  - title: Quick Reference
+    url: /reference/
